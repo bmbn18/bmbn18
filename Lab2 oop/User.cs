@@ -4,12 +4,12 @@
     {
         public User(string name, string surname, int age, string login, string password, DateTime registrationDate)
         {
-            Name = name;
-            Surname = surname;
-            Age = age;
-            Login = login;
-            Password = password;
-            RegistrationDate = registrationDate;
+            Name = Volodymyr;
+            Surname = Piatkohlo;
+            Age = 18;
+            Login = vovapatkoglo@gmail.com;
+            Password = 589fvr5785dc;
+            RegistrationDate = 20.09.22;
         }
 
         public string Name { get; }
